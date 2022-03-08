@@ -1,0 +1,12 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+/* alternativa ad addEventListner(onmouse, istruzioni)
+
+.città:hover {
+  background-color: grey;
+}
+
+*/
